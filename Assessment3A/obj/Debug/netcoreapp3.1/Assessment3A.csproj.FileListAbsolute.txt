@@ -1,0 +1,13 @@
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\bin\Debug\netcoreapp3.1\Assessment3A.exe
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\bin\Debug\netcoreapp3.1\Assessment3A.deps.json
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\bin\Debug\netcoreapp3.1\Assessment3A.runtimeconfig.json
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\bin\Debug\netcoreapp3.1\Assessment3A.runtimeconfig.dev.json
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\bin\Debug\netcoreapp3.1\Assessment3A.dll
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\bin\Debug\netcoreapp3.1\Assessment3A.pdb
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\obj\Debug\netcoreapp3.1\Assessment3A.csprojAssemblyReference.cache
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\obj\Debug\netcoreapp3.1\Assessment3A.AssemblyInfoInputs.cache
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\obj\Debug\netcoreapp3.1\Assessment3A.AssemblyInfo.cs
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\obj\Debug\netcoreapp3.1\Assessment3A.csproj.CoreCompileInputs.cache
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\obj\Debug\netcoreapp3.1\Assessment3A.dll
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\obj\Debug\netcoreapp3.1\Assessment3A.pdb
+C:\Users\debra_2qm34gh\source\repos\Assessment3A\Assessment3A\obj\Debug\netcoreapp3.1\Assessment3A.genruntimeconfig.cache
